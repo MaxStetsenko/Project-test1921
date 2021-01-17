@@ -1,0 +1,17 @@
+@font-face {
+	font-family: "SchnyderXCondLDemi";
+	src: url("../fonts/TT_Travel/");
+	src: local("../fonts/Schnyder_X_Condensed/SchnyderXCondLDemi.woff2"),
+		url("../fonts/Schnyder_X_Condensed/SchnyderXCondLDemi.woff2") format("woff2");
+	font-style: normal;
+}
+
+@font-face {
+	font-family: "TT Travels";
+	src: url("../fonts/TT_Travel/");
+	src: local("../fonts/TT_Travel/TT Travels Light"), local("../fonts/TT_Travel/TTTravels-Light"),
+		url("../fonts/TT_Travel/TTTravels-Light.woff2") format("woff2"),
+		url("../fonts/TT_Travel/TTTravels-Light.woff") format("woff"), url("TTTravels-Light.ttf") format("truetype");
+	font-weight: 300;
+	font-style: normal;
+}
